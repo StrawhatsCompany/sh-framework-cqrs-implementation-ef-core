@@ -7,12 +7,11 @@
         <Version>10.0.3</Version>
         <Authors>Muharrem Kaçkın</Authors>
         <Company>Strawhats Company</Company>
-        <PackageProjectUrl>https://github.com/muharremkackin/sh-framework-cqrs-implementation-entity-framework-core</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/StrawhatsCompany/sh-framework-cqrs-implementation-ef-core</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageTags>asp.net;cqrs;implementation;result-pattern;clean-architecture;entity-framework-core</PackageTags>
-        <RepositoryUrl>https://github.com/muharremkackin/sh-framework-cqrs-implementation-entity-framework-core</RepositoryUrl>
+        <RepositoryUrl>https://github.com/StrawhatsCompany/sh-framework-cqrs-implementation-ef-core</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <IncludeSymbols>true</IncludeSymbols>
         <SymbolPackageFormat>snupkg</SymbolPackageFormat>
